@@ -1,4 +1,4 @@
-package com.github.curriculeon.greeps;
+package com.github.curriculeon.jfoot.template;
 
 import com.github.git_leon.RandomUtils;
 import com.github.git_leon.jfoot.system.resources.JFootImage;

@@ -1,10 +1,8 @@
-package com.github.curriculeon.greeps;
+package com.github.curriculeon.jfoot.template;
 
-import com.github.curriculeon.greeps.Earth;
 import com.github.git_leon.jfoot.system.JFootApplication;
 import greenfoot.Greenfoot;
 import greenfoot.World;
-import greenfoot.core.WorldHandler;
 import org.junit.Test;
 
 public class DemoAppTest {
