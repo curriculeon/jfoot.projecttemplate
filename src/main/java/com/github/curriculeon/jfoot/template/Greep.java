@@ -5,10 +5,7 @@ import com.github.git_leon.jfoot.system.resources.JFootImage;
 import greenfoot.Actor;
 
 /**
- * A Greep is an alien creature that likes to collect tomatoes.
- *
- * @author (your name here)
- * @version 0.1
+ * Sample Actor class
  */
 public class Greep extends Actor {
     public Greep() {
@@ -20,11 +17,11 @@ public class Greep extends Actor {
 
     public void act() {
         move(5);
-        if(isAtEdge()) {
+        if (isAtEdge()) {
             turn(30);
         }
 
-        if(RandomUtils.createBoolean(10)) {
+        if (RandomUtils.createBoolean(10)) {
             turn(RandomUtils.createInteger(-90, 90));
         }
     }

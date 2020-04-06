@@ -5,11 +5,7 @@ import com.github.git_leon.jfoot.world.AbstractJFootWorld;
 
 
 /**
- * This is Earth. Or at least some remote, uninhabited part of Earth. Here, Greeps can
- * land and look for piles of tomatoes...
- *
- * @author Michael Kolling
- * @version 1.0
+ * Sample World class
  */
 public class Earth extends AbstractJFootWorld {
     public Earth() {
